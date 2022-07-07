@@ -1,0 +1,6 @@
+lxml
+flask
+yfinance
+html5lib
+flask-mysql
+flask-ext
