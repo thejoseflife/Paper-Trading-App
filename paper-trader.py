@@ -3,10 +3,6 @@ from flask import Flask
 from flaskext.mysql import MySQL
 import yfinance as yf
 
-# Instantiate MySQL Database
-global mydb
-global mycursor
-
 # Instantiate Flask
 app = Flask(__name__)
 mysql = MySQL()
